@@ -1,3 +1,4 @@
+[![intro](/intro.gif)](http://promobot-education.github.io/)
 **Promobot Education** - уникальное образовательное решение для изучения основ сервисной робототехники для детей с 12 лет.
 
 Promobot Education состоит из нескольких программных и аппаратных продуктов:
